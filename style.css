@@ -1,12 +1,24 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar {
+    background-color: rgb(91, 224, 241);
+}
 li {
+    color: tomato;
+    padding: 5px;
     list-style-type: none;
     display: inline;
-    float: right;
+    float: left;
 }
-form {
-    float: right;
+.padding {
+    padding-left: 25px;
 }
 section {
-    margin: 50px;
+    padding: 230px;
     text-align: center;
+}
+.section404 {
+    font-size: 45px;
+    background-image: url(619660141020121850.jpg); size: 50px;
 }
