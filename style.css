@@ -1,0 +1,12 @@
+li {
+    list-style-type: none;
+    display: inline;
+    float: right;
+}
+form {
+    float: right;
+}
+section {
+    margin: 50px;
+    text-align: center;
+}
